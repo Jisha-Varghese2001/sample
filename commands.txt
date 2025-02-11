@@ -34,4 +34,8 @@ git clone
 #to add changes in remote repository to lacal repository
 git pull
 
+#to add remote repository to local repository
+git remote add remote name path
 
+#to push contents in local repository to remote repository
+git push name master
