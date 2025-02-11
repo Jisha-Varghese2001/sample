@@ -42,3 +42,6 @@ git push name master
 
 #listing remote
 git remote -v
+
+#listing all branches
+git branch
